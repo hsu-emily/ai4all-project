@@ -1,7 +1,4 @@
-# (UPDATE IN README.md) Project Title
-
-Predicting Adverse Effects of Drug Interactions
-
+#Predicting Adverse Effects of Drug Interactions
 
 ## Problem Statement <!--- do not change this line -->
 
